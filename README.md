@@ -1,6 +1,8 @@
 # Used Car Database Design Stimulation
-## Participants (in alphebetical order): Deepika Sundaram; Gagana Balehonnur Ganesh; Kwangyul Yu; Lin Bai; Qiuwei Wang; Yuan-Cheng Su
+#### Participants (in alphebetical order): Deepika Sundaram; Gagana Balehonnur Ganesh; Kwangyul Yu; Lin Bai; Qiuwei Wang; Yuan-Cheng Su
+
 ***
+
 ## To begin with, the whole project is going over a database design process. As a team, we hope to stimulate business practices upon the whole procedure. Following will be the description for all the files and folder included. 
 
 ## Basic Business Descriptions and Business Reports
@@ -19,6 +21,13 @@
 > 2. Sales Report: Report in sales. Includes, total sales for each mnufacturer, number of car sale based on car age, monthly report, and some highlights.
 > 3. Potential Customer: Based on customer preference, a potential list are created for sellers to better target buyers.(All contact info are generated randomly)
 
+***
 
-## Data Descibition Language
-> 
+## Data Definition Language
+* Basic Definition Language
+
+> Definition for each entity. Additionally, referencing relationship are also included.
+
+* Server-Side Module Design
+
+> Includes functions, triggers, and procedures. Also, we applied table-check constraints and calculated attributes.
