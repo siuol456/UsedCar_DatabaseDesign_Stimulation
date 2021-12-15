@@ -15,7 +15,9 @@
 * Report
 
 > A PowerBI report generated from stimulated data. This report shows 3 part: <br>
-> 
+> 1. Summary: Basic reports on stock management and fraud reports <br>
+> 2. Sales Report: Report in sales. Includes, total sales for each mnufacturer, number of car sale based on car age, monthly report, and some highlights.
+> 3. Potential Customer: Based on customer preference, a potential list are created for sellers to better target buyers.(All contact info are generated randomly)
 
 
 ## Data Descibition Language
