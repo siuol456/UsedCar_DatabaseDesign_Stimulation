@@ -1,7 +1,7 @@
-CREATE database Team_4_project;
+CREATE database UsedCar_Database_Project;
 GO
 
-USE Team_4_project;
+USE UsedCar_Database_Project;
 GO
 
 create schema Sales;
