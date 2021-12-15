@@ -1,7 +1,6 @@
-Use Team_4_project;
+Use UsedCar_Database_Project;
 GO
 
---USE Team_4_project;
 
 -- Views
 -- Customer Information for sellers to make contact or admins to check status
